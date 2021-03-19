@@ -4,9 +4,8 @@ import java.io.Serializable;
 
 /**
  * @author: Dawid Antecki
- * @created: 03/19/2021 6:49 PM
+ * @created: 03/19/2021 8:35 PM
  * @version: 1.0
  */
-public class Author implements Serializable {
-
+public class SampleClass implements Serializable {
 }
